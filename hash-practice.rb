@@ -47,4 +47,4 @@ school = {
   students: student_list
 }
 
-school
+puts school

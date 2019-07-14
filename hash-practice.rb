@@ -55,4 +55,4 @@ puts school
 
 class_list = school[:classes]
 
-puts class_list
+puts class_list.first 

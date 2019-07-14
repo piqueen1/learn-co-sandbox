@@ -48,3 +48,5 @@ school = {
 }
 
 puts school
+
+school[classes] = ["Software Engineering", "Data Science"]

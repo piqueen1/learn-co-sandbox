@@ -52,3 +52,7 @@ puts school
 school[:classes] = ["Software Engineering", "Data Science"]
 
 puts school
+
+class_list = school[:classes]
+
+puts class_list

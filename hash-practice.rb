@@ -49,6 +49,6 @@ school = {
 
 puts school
 
-school[classes] = ["Software Engineering", "Data Science"]
+school[:classes] = ["Software Engineering", "Data Science"]
 
 puts school

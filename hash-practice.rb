@@ -3,4 +3,6 @@ new_hash = {
   :message => "Hello world!"
 }
 
-new_hash
+key = :message
+
+puts new_hash[key]

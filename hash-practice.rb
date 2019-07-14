@@ -37,3 +37,7 @@ puts shipping_manifest["oil painting"]
 
 puts "There are now #{shipping_manifest["top hat"]} hats."
 =end
+
+instructors = ["Ian", "Kelson", "Finn"]
+
+students = ["Andrew", "Howard", "Amelie", "Hazel", "Parker", "Brian"]
